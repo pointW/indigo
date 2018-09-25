@@ -53,12 +53,12 @@ github: https://github.com/pointW
 # lanyrd: mylanyrd
 email: wang.dian@husky.neu.edu
 
-authors:
-	dian:
-    	name: Dian Wang
-        bio: MS candidate in Northeastern University
-        external-image: false
-        picture: assets/images/profile.jpg
+#authors:
+#	dian:
+#    	name: Dian Wang
+#        bio: MS candidate in Northeastern University
+#        external-image: false
+#        picture: assets/images/profile.jpg
 #    johndoe:
 #        name: John Doe
 #        bio: A Man who travels the world eating noodles
